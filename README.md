@@ -5,3 +5,5 @@ Reposítório para o Desafio de Projetos da Dio - Publicando Sua API REST na Nuv
 https://github.com/felipeAguiarCode/angular-psn-store-clone
 
 ## Melhorias
+- Utilização de arquivo json como base de dados
+- Utilização do ngFor
